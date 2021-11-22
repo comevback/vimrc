@@ -16,3 +16,9 @@ let g:airline#extensions#tabline#formatter = 'default'
 nnoremap <C-n> :NERDTree<CR>
 nmap  -  <Plug>(choosewin)
 let g:choosewin_overlay_enable = 1
+
+
+set number
+set cursorline
+set magic
+colorscheme darkblue
