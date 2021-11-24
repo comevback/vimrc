@@ -32,7 +32,7 @@ let g:choosewin_overlay_enable = 1
 "ale
 let g:ale_sign_error='+'
 let g:ale_sign_warning='!'
-let g:ale_disable_lsp=1
+"let g:ale_disable_lsp=1
 "let g:ale_set_highlights = 0
 "let g:ale_linters = {
 "\	'c':['clang'],
