@@ -10,7 +10,6 @@ filetype plugin indent on
 
 call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'valloric/youcompleteme'
 Plug 'dense-analysis/ale'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
