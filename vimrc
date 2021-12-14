@@ -9,7 +9,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Plug 'valloric/youcompleteme'
 Plug 'dense-analysis/ale'
 Plug 'preservim/nerdtree'
-Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-scripts/bash-support.vim'
