@@ -2,6 +2,7 @@ set number
 set mouse=a
 set cursorline
 set cursorcolumn
+set syntax
 
 
 call plug#begin('~/.vim/plugged')
