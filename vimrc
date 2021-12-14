@@ -1,3 +1,9 @@
+set number
+set mouse=a
+set cursorline
+set cursorcolumn
+
+
 call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Plug 'valloric/youcompleteme'
