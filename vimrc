@@ -2,7 +2,10 @@ set number
 set mouse=a
 set cursorline
 set cursorcolumn
-set syntax
+set ignorecase
+set incsearch
+syntax on
+filetype plugin indent on
 
 
 call plug#begin('~/.vim/plugged')
