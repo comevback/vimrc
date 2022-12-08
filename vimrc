@@ -14,13 +14,17 @@ Plug 'dense-analysis/ale'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'vim-scripts/bash-support.vim'
+Plug 'vim-scripts/bash-support.vim
+Plug 'NLKNguyen/papercolor-theme'
 Plug 't9md/vim-choosewin'
 Plug 'jiangmiao/auto-pairs'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'ddollar/nerdcommenter'
 call plug#end()
 
+set t_Co=256   " This is may or may not needed.
+set background=dark
+colorscheme PaperColor
 
 "shortcut
 nmap  -  <Plug>(choosewin)
