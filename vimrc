@@ -14,7 +14,7 @@ Plug 'dense-analysis/ale'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'vim-scripts/bash-support.vim
+Plug 'vim-scripts/bash-support.vim'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 't9md/vim-choosewin'
 Plug 'jiangmiao/auto-pairs'
