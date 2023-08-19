@@ -4,10 +4,12 @@ set cursorline
 set cursorcolumn
 set ignorecase
 set incsearch
-syntax on
-filetype plugin indent on
-set tabstop=4
+set ai
+set history=100
 set shiftwidth=4
+set tabstop=4
+set cindent
+set autowrite
 
 
 call plug#begin('~/.vim/plugged')
